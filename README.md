@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsucco&show_icons=true&locale=en&layout=compact" alt="elsucco" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsucco&show_icons=true&locale=en" alt="elsucco" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
