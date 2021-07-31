@@ -7,3 +7,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsucco&show_icons=true&locale=en" alt="elsucco" /></p>
 
+<a href="https://github.com/elsucco">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsucco&show_icons=true&locale=en&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elsucco&show_icons=true&locale=en" />
+</a>
