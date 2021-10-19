@@ -1,9 +1,5 @@
 ### Hello, I'm Marlon
 
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning how to flex your girlfriend
-- 💞️ I’m looking to collaborate on your stepsister.
-
 ### Languages and Tools
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
