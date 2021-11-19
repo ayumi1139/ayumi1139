@@ -1,5 +1,7 @@
 # Hello, I'm Marlon
 
+I'm currently working on a project dedicated to machine and deep learning in general artificial intelligence
+
 ### Languages and Tools
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
