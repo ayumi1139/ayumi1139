@@ -20,6 +20,6 @@ I'm currently working on a project dedicated to machine and deep learning in gen
 
 ### Statistics
 <a href="https://github.com/elsucco">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elsucco&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elsucco&layout=compact&theme=vue-dark&hide=html" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayumi1139&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayumi1139&layout=compact&theme=vue-dark&hide=html" />
 </a>
