@@ -1,4 +1,4 @@
-# Hello, I'm Ayumi
+# Hello, I'm James
 
 I'm currently working on a project dedicated to machine and deep learning in general artificial intelligence
 
