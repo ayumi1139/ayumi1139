@@ -19,7 +19,7 @@ I'm currently working on a project dedicated to machine and deep learning in gen
 
 
 ### Statistics
-<a href="https://github.com/elsucco">
+<a href="https://github.com/cptprice1139">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cptprice1139&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cptprice1139&layout=compact&theme=vue-dark&hide=html" />
 </a>
