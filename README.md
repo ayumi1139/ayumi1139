@@ -1,4 +1,4 @@
-# Hello, I'm James
+# Hello, I'm Marlon
 
 I'm currently working on a project dedicated to machine and deep learning in general artificial intelligence
 
